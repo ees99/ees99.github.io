@@ -5,7 +5,20 @@ html, body {
     height: 100%;
 }
 
-h2 {
+h1 {
     text-align: center;
+    font-size: 32px;
+    color: #dabece; 
 }
 
+#footer {
+	color: DarkSlateGray;
+	font-size: 16px;
+}
+
+.container {
+    padding: 250px 0;
+	margin: 30px;
+    background-image: url("https://content.codecademy.com/projects/make-a-website/lesson-2/bg.jpg");
+    color: #ffffff;
+}
