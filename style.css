@@ -23,5 +23,6 @@ h1 {
     text-align: center;
     color: #ffffff;
     background-image: url("https://content.codecademy.com/projects/make-a-website/lesson-2/bg.jpg");
+    backdrop-filter: (5px);
 }
 
