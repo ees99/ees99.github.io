@@ -21,9 +21,9 @@ h1 {
     padding: 250px 0;
 	margin: 30px;
     text-align: center;
-    background-image: url("https://content.codecademy.com/projects/make-a-website/lesson-2/bg.jpg");
     color: #ffffff;
 }
 .background-image {
     filter: blur(4px);
+    background-image: url("https://content.codecademy.com/projects/make-a-website/lesson-2/bg.jpg");
 }
