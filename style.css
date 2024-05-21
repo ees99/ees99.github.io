@@ -5,10 +5,26 @@ html, body {
     height: 100%;
 }
 
-li {
-    display: inline;
-}
+.pill-nav a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 5px;
+  }
 
+  .pill-nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .pill-nav a.active {
+    background-color: pink;
+    color: white;
+  }
+  
 h1 {
     text-align: center;
     font-size: 32px;
